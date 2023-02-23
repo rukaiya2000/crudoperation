@@ -17,13 +17,13 @@ In this task we were supposed to create various APIS -
 Clone the project
 
 ```bash
-  git clone https://github.com/ncompass-ts/team-adept.git node-uc-1-rukaiyak
+  git clone https://github.com/rukaiya2000/crudoperation.git
 ```
 
 Go to the project directory
 
 ```bash
-  cd node-uc-1-rukaiyak
+  cd crudoperation
 ```
 
 Install dependencies
